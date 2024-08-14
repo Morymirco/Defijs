@@ -85,6 +85,3 @@ console.log(nombre);
 let resultatEnChaine = String(nombre);
 console.log(resultatEnChaine   + ' ' + "est la reponse");
 
-
-let array = [3,6,1,0];
-console.log(array.sort());
